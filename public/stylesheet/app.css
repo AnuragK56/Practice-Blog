@@ -1,6 +1,12 @@
 i.icon {
  font-size: 2em;
 }
+#button{
+    margin: 1%;
+}
+.extra{
+    text-align: center;
+}
 
 .container.main {
     margin-top: 7.0em;
